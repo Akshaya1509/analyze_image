@@ -1,4 +1,4 @@
-#Image analysis using Azure Cognitive Services
+# Image analysis using Azure Cognitive Services
 
 Flask app which uses send image details into Azure Cosmos DB
 
